@@ -212,7 +212,6 @@ Overall, the project is a clean demonstration of how to evaluate a regression mo
 
 ## Repository notes
 
-Make sure these image files are included in the repository root, or update the paths if they are stored in another folder:
 
 - `median-house-value.png`
 - `median-residual.png`
